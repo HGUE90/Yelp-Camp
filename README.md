@@ -1,0 +1,1 @@
+YelpCamp is currently under development, with several key features in the works. The application aims to provide a user-friendly experience for campers by allowing them to browse campgrounds, leave reviews, and manage their camping experiences all in one place. As I continue to enhance the app, I'm focusing on implementing robust functionality and a sleek design.
